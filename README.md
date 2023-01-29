@@ -1,5 +1,5 @@
 <h1>Convert your VCF contacts to CSV with ease! 📱💻</h1>
-<p>Do you want to have a simple CSV backup of your contacts, but dread doing it manually? Look no further! This script easily converts your VCF contacts to CSV, making it easy for you to store and access your contacts in a human-readable format.</p>
+<p>Do you want to have a simple CSV backup of your contacts, but dread doing it manually? Look no further! This script easily converts your phone's contacts to CSV, making it easy for you to store and access your contacts in a human-readable format. Works for both Android and iOS.</p>
 <h2>Table of Contents</h2>
 <ol>
   <li><a href="#obtaining-the-vcf-file" target="_new">Obtaining the VCF file</a>
